@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Beginnings"
-date:       2020-05-04 16:48:26 +0000
+date:       2020-05-04 12:48:27 -0400
 permalink:  beginnings
 ---
 
